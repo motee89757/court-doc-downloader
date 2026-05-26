@@ -23,11 +23,7 @@ AI 会自动完成依赖安装和 Playwright 浏览器配置。
 
 ### 触发方式
 
-告诉 AI：
-> "下载这个法院送达链接的文书"
-
-或者带上链接：
-> "下载 https://zxfw.court.gov.cn/zxfw/#/pagesAjkj/app/wssd/index?... 的文书"
+将短信直接复制给 AI，如需保存到指定目录，就告诉AI保存地址
 
 AI 会自动识别链接并使用此 skill。
 
